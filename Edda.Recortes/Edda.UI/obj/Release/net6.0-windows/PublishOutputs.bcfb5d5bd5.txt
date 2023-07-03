@@ -1,0 +1,5 @@
+C:\wpf\Edda.UI.exe
+C:\wpf\Edda.UI.dll
+C:\wpf\Edda.UI.deps.json
+C:\wpf\Edda.UI.runtimeconfig.json
+C:\wpf\Edda.UI.pdb
